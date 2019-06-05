@@ -7,15 +7,11 @@ Systems Engineer
 
 **PDF version [here](./cv.pdf)**
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
-
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="c18papa@ionio_dot_gr">c18papa@ionio_dot_gr</a> 
 
 <div id="webaddress">
   <a href="https://c18papa.github.io/markdown-cv-c18papa/"><i class="fas fa-home"></i> c18papa.github.io</a> - 
-  <a href="http://c18papa.github.io/c18papa-cv"><i class="fab fa-github"></i> c18papa</a> - 
+  <a href="https://github.com/c18papa"><i class="fab fa-github"></i> c18papa</a> - 
   <a href="https://twitter.com/c18papa"><i class="fab fa-twitter"></i> @c18papa</a>
 </div>
 
