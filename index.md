@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: c18papa test CV
 ---
 # David Whipp
 Associate professor, University of Helsinki
