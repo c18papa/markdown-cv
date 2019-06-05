@@ -5,7 +5,8 @@ title: c18papa test CV
 # c18papa Whipp
 Associate professor, University of Helsinki
 
-PDF version [here](./cv.pdf)
+**PDF version [here](./cv.pdf)**
+
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
 FI-00014 University of Helsinki, Finland<br/>
