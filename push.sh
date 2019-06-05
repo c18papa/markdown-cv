@@ -11,7 +11,7 @@ commit_pdf() {
 
 upload_files() {
   git remote remove origin
-  git remote add origin https://spirosbax:$GITHUB_TOKEN@github.com/spirosbax/cv.git
+  git remote add origin https://c18papa:$GITHUB_TOKEN@github.com/c18papa/markdown-cv-c18papa.git
   git push --quiet -u origin master
 }
 
