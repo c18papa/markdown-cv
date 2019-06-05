@@ -2,7 +2,7 @@
 layout: cv
 title: c18papa test CV
 ---
-# David Whipp
+# c18papa Whipp
 Associate professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
