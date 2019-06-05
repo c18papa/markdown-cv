@@ -2,7 +2,7 @@
 layout: cv
 title: Iason Papanagiotou CV
 ---
-# c18papa Whipp
+# Iason Papanagiotou
 Systems Engineer
 
 **PDF version [here](./cv.pdf)**
