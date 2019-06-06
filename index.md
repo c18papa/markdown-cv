@@ -2,7 +2,7 @@
 layout: cv
 title: Iason Papanagiotou
 ---
-# Iason Papanagiotou
+# Iason - Ioannis Papanagiotou
 Systems Engineer
 
 **PDF version [here](./cv.pdf)**
