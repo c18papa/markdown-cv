@@ -35,9 +35,10 @@ Systems Engineer
 `2014`
 Siahos, I., **Papanagiotou, I.**, Georgopoulos, A., Tsamis, F. & Nikoltsios, E. Implementing a Hybrid Cloud Infrastructure to Facilitate ICT in Education: Design and Evaluation. *Educational Technology Use and Design for Improved Learning Opportunities*, pp. 1-18. doi: 10.4018/978-1-4666-6102-8.ch001, 2014.
 
-M. A. Murphy, M. H. Taylor, J. Gosse, C. R. P. Silver, **D. M. Whipp**, and C. Beaumont. Limit of strain partitioning in the Himalaya marked by large earthquakes in western Nepal. *Nature Geoscience*, *7*(1):38–42. doi: [10.1038/ngeo2017](https://dx.doi.org/10.1038/ngeo2017), 2014.
+`2013`
+Σιάχος Ι., Γεωργόπουλος Ά., Τσάμης Φ., **Παπαναγιώτου Ι.** & Νικόλτσιος Ε. Αποτελέσματα από τη χρήση ΕΛ/ΛΑΚ στην Α΄βάθμια και Β΄βάθμια εκπαίδευση. *5th Conference on Informatics in Education *, 2013.
 
-I. Coutand, **D. M. Whipp**, D. Grujic, M. Bernet, M. G. Fellin, B. Bookhagen, K. R. Landry, S. K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multithermochronologic data. *Journal of Geophysical Research: Solid Earth*, *119*(2):1446–1481. doi: [10.1002/2013JB010891](https://dx.doi.org/10.1002/2013JB010891), 2014.
+Σιάχος Ι., Γεωργόπουλος Ά., Τσάμης Φ., **Παπαναγιώτου Ι.**, Παπακυρύκου Β. & Νικόλτσιος Ε. Απλοποιώντας την εγκατάσταση και τη λειτουργία του LTSP για τα ελληνικά και όχι μόνο σχολεία. *7ο Πανελλήνιο Συνέδριο Καθηγητών Πληροφορικής Δευτεροβάθμιας Εκπαίδευσης, Πανεπιστήμιο Μακεδονίας*, 2013.
 
 `2009`
 **D. M. Whipp**, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
