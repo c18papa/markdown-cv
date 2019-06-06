@@ -40,17 +40,11 @@ Siahos, I., **Papanagiotou, I.**, Georgopoulos, A., Tsamis, F. & Nikoltsios, E. 
 
 Σιάχος Ι., Γεωργόπουλος Ά., Τσάμης Φ., **Παπαναγιώτου Ι.**, Παπακυρύκου Β. & Νικόλτσιος Ε. Απλοποιώντας την εγκατάσταση και τη λειτουργία του LTSP για τα ελληνικά και όχι μόνο σχολεία. *7ο Πανελλήνιο Συνέδριο Καθηγητών Πληροφορικής Δευτεροβάθμιας Εκπαίδευσης, Πανεπιστήμιο Μακεδονίας*, 2013.
 
-`2009`
-**D. M. Whipp**, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
+`2012`
+Siahos, I., **Papanagiotou, I.**, Georgopoulos, A., Tsamis, F. & Papaioannou, I. An Architecture Paradigm for Providing Cloud Services in School Labs Based on Open Source Softwareto Enhance ICT in Education. *International Journal of Cyber Ethics in Education, Volume 2, Issue 1*, pp. 44-57, 2012.
 
-T. F. Schildgen, T. A. Ehlers, **D. M. Whipp**, M. C. van Soest, K. X. Whipple, and K. V. Hodges. Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2009JF001305](https://dx.doi.org/10.1029/2009JF001305), 2009.
-
-`2007`
-**D. M. Whipp** and T. A. Ehlers. Influence of groundwater flow on thermochronometer-derived exhumation rates in the central Nepalese Himalaya. *Geology*, *35*(9):851–854. doi: [10.1130/G23788A.1](https://dx.doi.org/10.1130/G23788A.1),  2007.
-
-K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, exhumation pathway, age uncertainties, and the interpretation of erosion rates from thermochronometer data. *Tectonics*, *26*(4) . doi: [10.1029/2007TC002108](http://dx.doi.org/10.1029/2007TC002108), 2007.
-
-**D. M. Whipp**, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. *Tectonics*, *26*(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
+`2011`
+Siahos, Y., **Papanagiotou, I.**, Georgopoulos, A. Designing, Implementing and Supporting a FOSS Solution in Hellenic Primary and Secondary Education Schools. *International Conference on Information Communication Technologies in Education (ICICTE)*, pp. 202-212, 2011.
 
 ## Grants and funding
 
