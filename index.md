@@ -26,7 +26,8 @@ Systems Engineer
 ## Experience
 
 `2008-present`
-**Systems Engineer**, *Computer Technology Institute and Press*, Patras, Greece.
+**Systems Engineer**, 
+*Computer Technology Institute and Press*, Patras, Greece.
 
 ## Publications
 
