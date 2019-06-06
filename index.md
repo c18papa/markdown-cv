@@ -7,7 +7,7 @@ Systems Engineer
 
 **PDF version [here](./cv.pdf)**
 
-<a href="c18papa@ionio_dot_gr">c18papa@ionio_dot_gr</a> 
+E-mail:  c18papa ( AT ) ionio.gr
 
 <div id="webaddress">
   <a href="https://c18papa.github.io/markdown-cv-c18papa/"><i class="fas fa-home"></i> c18papa.github.io</a> - 
