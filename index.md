@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Iason Papanagiotou CV
+title: Iason Papanagiotou
 ---
 # Iason Papanagiotou
 Systems Engineer
