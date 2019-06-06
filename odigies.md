@@ -31,3 +31,4 @@ https://docs.travis-ci.com/user/environment-variables#defining-variables-in-repo
 *  [Αποθετήριο του κώδικα του βιογραφικού](https://github.com/c18papa/markdown-cv-c18papa)
 *  [Αποθετήριο στο Travis](https://travis-ci.org/c18papa/markdown-cv-c18papa) [![Build Status](https://travis-ci.org/c18papa/markdown-cv-c18papa.svg?branch=master)](https://travis-ci.org/c18papa/markdown-cv-c18papa)
 
+![](gitlocal.mp4)
