@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Iason Papanagiotou
+title: c18papa
 ---
-# Iason - Ioannis Papanagiotou
+# c18papa
 Systems Engineer
 
 **PDF version [here](./cv.pdf)**
@@ -21,13 +21,13 @@ E-mail:  c18papa ( AT ) ionio.gr
 **BSc in Computer Science**, *Hellenic Open University*
 
 `2004-2008`
-**BSc in Finance and Auditing**, *Technological Educational Institute Of Kalamata*
+**BSc in Finance and Auditing**, *Technological Educational Institute*
 
 ## Experience
 
 `2008-present`
 **Systems Engineer**, 
-*Computer Technology Institute and Press*, Patras, Greece.
+*company name*, Patras, Greece.
 
 ## Publications
 
